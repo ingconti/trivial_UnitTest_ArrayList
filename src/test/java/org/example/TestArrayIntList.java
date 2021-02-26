@@ -9,6 +9,7 @@
 
     import java.util.function.BooleanSupplier;
 
+    
     /**
      * Unit test for simple App.
      */
